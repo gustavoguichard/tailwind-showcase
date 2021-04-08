@@ -3,6 +3,7 @@ function App() {
     <header className="bg-black bg-opacity-20 min-h-[75vh] relative flex justify-center items-center">
       <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent" />
       <img
+        alt="Background"
         src="https://picsum.photos/800/700"
         className="absolute h-full w-full object-cover z-[-1]"
       />
