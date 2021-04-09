@@ -1,6 +1,6 @@
 function App() {
   return (
-    <header className="bg-black bg-opacity-20 min-h-[75vh] relative flex justify-center items-center">
+    <main className="bg-black bg-opacity-20 min-h-[75vh] relative flex justify-center items-center">
       <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent" />
       <img
         alt="Background"
@@ -17,7 +17,7 @@ function App() {
           </span>
         </h1>
       </div>
-    </header>
+    </main>
   )
 }
 
